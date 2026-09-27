@@ -1,0 +1,9 @@
+# This repo (github.com/Muaddd1/NEXFORM) is a public SHOWCASE only — README.md +
+# screenshots/. The real source stays local and ships as the Gumroad deliverable
+# (NEXFORM-source.zip, whose README is README.template.md). Never commit source here.
+# (src/index.css has `@source "../src"`, so Tailwind still scans the ignored source.)
+/*
+!/.gitignore
+!/README.md
+!/screenshots/
+/screenshots/gumroad/
