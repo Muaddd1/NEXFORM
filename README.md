@@ -4,7 +4,7 @@
 a 3D athlete built in code, a 60-second personalisation quiz, a 3D body map, and a real booking flow
 that ends in **“YOU'RE IN.”**
 
-**[Live demo](https://nexform-muad1.vercel.app)**
+**[Live demo](https://nexform-muad1.vercel.app)** · **[Get the template ($49)](https://muadme.gumroad.com/l/ufsnay)**
 
 ![NEXFORM hero](screenshots/01-hero.png)
 
