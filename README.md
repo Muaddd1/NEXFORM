@@ -41,6 +41,17 @@ functions to swap for your real calendar API.
 
 **Lighthouse** (production build): mobile 95 / 100 / 100 / 100 · desktop 99 / 100 / 100 / 100.
 
+## More templates
+
+- [FADEHOUSE](https://github.com/Muaddd1/FADEHOUSE) — premium barbershop template with a real booking flow and a 3D clipper built in code ([demo](https://fadehouse-muad1.vercel.app))
+- [ÉLORA](https://github.com/Muaddd1/ELORA) — luxury beauty salon template with a real booking flow and a 3D serum bottle ([demo](https://elora-muad1.vercel.app))
+- [VELLUTO](https://github.com/Muaddd1/VELLUTO) — cinematic 3D coffee-brand template ([demo](https://velluto-muad1.vercel.app))
+- [AURELIA](https://github.com/Muaddd1/AURELIA) — luxury e-commerce React template ([demo](https://aurelia-template-phi.vercel.app))
+- [AURUM](https://github.com/Muaddd1/AURUM) — luxury gold jewelry template with a live gold price calculator and Arabic RTL ([demo](https://aurum-template-muad1.vercel.app))
+- [VANTA](https://github.com/Muaddd1/VANTA) — premium digital-product storefront ([demo](https://vanta-creator-os.vercel.app))
+- [GOLDEN CRUST](https://github.com/Muaddd1/GOLDEN-CRUST) — pizza restaurant template with a 3D pizza hero ([demo](https://golden-crust-muad1.vercel.app))
+- [PLINTH](https://github.com/Muaddd1/PLINTH) — interior design studio template in a single HTML file ([demo](https://plinth-template.vercel.app))
+
 ---
 
 This repository is a showcase. The full source code is available as a paid template.
