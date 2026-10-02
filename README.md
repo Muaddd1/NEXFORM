@@ -43,6 +43,7 @@ functions to swap for your real calendar API.
 
 ## More templates
 
+- [SYNTRA](https://github.com/Muaddd1/SYNTRA) — AI business command center SaaS template with an AI command palette, an approval queue with audit log, a visual workflow builder and five AI agents ([demo](https://syntra-muad1.vercel.app))
 - [VANTA DETAIL](https://github.com/Muaddd1/VANTA-DETAIL) — automotive detailing template with a scroll-driven 3D car, a live quote builder and a seven-step booking flow ([demo](https://vanta-detail-muad1.vercel.app))
 - [FADEHOUSE](https://github.com/Muaddd1/FADEHOUSE) — premium barbershop template with a real booking flow and a 3D clipper built in code ([demo](https://fadehouse-muad1.vercel.app))
 - [ÉLORA](https://github.com/Muaddd1/ELORA) — luxury beauty salon template with a real booking flow and a 3D serum bottle ([demo](https://elora-muad1.vercel.app))
