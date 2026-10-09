@@ -35,7 +35,7 @@ that ends in **“YOU'RE IN.”**
 
 ## Built with
 
-React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / react-three-fiber. One central config file
+React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / react-three-fiber + Drei. One central config file
 controls the whole site. There's no backend: the demo booking engine runs in the browser and has two
 functions to swap for your real calendar API.
 
