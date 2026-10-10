@@ -57,7 +57,7 @@ functions to swap for your real calendar API.
 
 ---
 
-This repository is a showcase. The full source code is available as a paid template.
+This repository is a showcase. The full source code is available as a paid template on [Gumroad](https://muadme.gumroad.com/l/ufsnay).
 
 ## Author
 
