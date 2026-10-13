@@ -31,6 +31,7 @@ that ends in **“YOU'RE IN.”**
 ![Results](screenshots/06-results.png)
 ![Dashboard](screenshots/07-dashboard.png)
 ![Pricing](screenshots/08-pricing.png)
+![Workout preview](screenshots/09-workout.png)
 ![Mobile](screenshots/10-mobile.png)
 
 ## Built with
